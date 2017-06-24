@@ -1,2 +1,2 @@
-# Minor-1
+# Be The Bindra
 Project undertaken in Minor 1
